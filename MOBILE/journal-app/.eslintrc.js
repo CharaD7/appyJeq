@@ -70,4 +70,9 @@ module.exports = {
       'always'
     ],
   },
+  'settings': {
+    'react': {
+      'version': 'detect',
+    },
+  },
 };
